@@ -1,5 +1,5 @@
 {
- "name": "AstroMD",
+ "name": "SmileMD",
  "description": "Multi Device Whatsapp Bot",
  "version": "1.0.0",
  "main": "index.js",
@@ -15,12 +15,12 @@
   "bot",
     "sl-md",
     "Multidevice",
-    "Sinhala-MultidEVICE",
+    "English-MultidEVICE",
     "bot-md",
     "Wa-Bot-MD",
     "multi-device"
  ],
- "author": "vihanga-yt",
+ "author": "Smile Leke",
  "license": "MIT",
  "dependencies": {
   "@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
